@@ -1,8 +1,8 @@
 # Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
 
-####### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
+###### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
 ---
-![Logo HER DAO]([https://web.telegram.org/k/download/1603182316](https://pbs.twimg.com/profile_images/1590818271464398853/5xFS05ic_400x400.jpg))
+![Logo HER DAO](https://pbs.twimg.com/profile_images/1590818271464398853/5xFS05ic_400x400.jpg)
 
 # Glosario
 
