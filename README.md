@@ -3,7 +3,7 @@
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
-| **Aleatoriedad** | la generación de números aleatorios es una condición necesaria para el correcto funcionamiento del las pruebas de conocimiento cero. | [Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography) |
+| **Aleatoriedad** | la generación de números aleatorios es una condición necesaria para el correcto funcionamiento del las pruebas de conocimiento cero. En el lado del verificador se necesita para generar consultas al probador y en el lado del probador, se utiliza  para lograr un conocimiento cero.| [Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography), [Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
 | **Argumento Sucinto No interactivo del Conocimiento (SNARK)** | Es una construcción de prueba en la que se puede demostrar la posesión de cierta información, sin revelarla y sin ninguna interacción entre el probador y el verificador. | [Zcash](https://z.cash/technology/zksnarks/) |
 | **Argumento de Conocimiento Escalable y Transparente (STARK)** |Tecnología que busca mejorar el problema de privacidad y escalabilidad de blockchain con un método de transacción transparente. Podría convertirse en la próxima etapa de las SNARKs  | [Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
 | **Bulletproofs** | Son pruebas cortas no interactivas de conocimiento cero que no requieren una configuración confiable. Se puede usar para convencer a un verificador de que un texto sin formato cifrado está bien formado. |[Stanford University](https://crypto.stanford.edu/bulletproofs/)|
@@ -14,11 +14,11 @@
 | **Claves Privadas** | |[]()|
 | **Conocimiento Cero** | Garantiza el anonimato. Si la verificación es verdadera, ningún verificador puede que eso.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Curvas Elípticas** | Es una de las herramientas más útiles para la criptografía moderna. Fueron propuestas en la década de 1980 y se generalizaron después de 2004. Ofrecen buenos niveles de seguridad con longitudes de clave cortas y permiten implementaciones más rápidas que otros métodos.| [Not a Monad Tutorial](https://www.notamonadtutorial.com/need-for-speed-elliptic-curves-chapter/) |
-| **Escalabilidad** | | []() |
+| **Escalabilidad** |  | []() |
 | **Fiat Shamir Transform** | Es una técnica para tomar una prueba interactiva de conocimientos y crear una firma digital basada en ella.| []() |
 | **Firmas Ciegas** | Creadas por David Chaum en el año de 1982. Fueron un diseño criptográfico que permitía firmar digitalmente documentos, archivos y mensajes de manera que no se revelará información a las partes involucradas en el intercambio de firmas.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Halo** | Novedoso avance en criptografía descubierto por investigadores de ECC.|[Zcash](https://z.cash/technology/zksnarks/)|
-| **Integridad Computacional** | | []() |
+| **Integridad Computacional** | Es una propiedad fundamental que significa que la salida de cierto cálculo es correcta. Las cadenas de bloques lo logran sin que se desconfie de ello. |[Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
 | **Interpolación** | Encontrar una representación del sistema de restricciones aritméticas en términos de polinomios durante el proceso de compilación STARK. | []() |
 | **Nodo** | Es un punto terminal de una red, o cualquiera de sus intersecciones. Su origen está en la ráiz indoeuropea ned, que en latín produjo nodus, origen del español nodo y nudo, y que da origen a la propia "net" en inglés. | [Jose Antonio Millán](http://jamillan.com/v_nodo.htm) |
 | **Oráculo** |  | []() |
