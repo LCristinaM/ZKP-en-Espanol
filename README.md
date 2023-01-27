@@ -1,9 +1,8 @@
 # Aprendiendo Zero Knowledge Proofs (ZKP)
 
     Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
-
-![Logo HER DAO](https://pbs.twimg.com/profile_images/1590818271464398853/5xFS05ic_400x400.jpg)
---- 
+---
+![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
 # Glosario
 
