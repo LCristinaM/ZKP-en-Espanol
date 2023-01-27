@@ -1,5 +1,7 @@
 # Glosario
-## Aprendiendo ZKP En español
+## Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
+
+#### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con Ethereum Foundation.
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
@@ -46,3 +48,7 @@
 | **Valores de Salida** |  | []() |
 | **Verificador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es verificar la autenticidad de un secreto por medio de pruebas criptográficas que así se lo permitan. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 
+# Contribuciones
+.
+.
+.
