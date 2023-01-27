@@ -1,4 +1,4 @@
-# Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
+# Aprendiendo Zero Knowledge Proofs (ZKP)
 
     Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
 
