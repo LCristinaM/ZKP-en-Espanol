@@ -13,8 +13,8 @@
 | **Argumento Sucinto No interactivo del Conocimiento (SNARK)** | Es una construcción de prueba en la que se puede demostrar la posesión de cierta información, sin revelarla y sin ninguna interacción entre el probador y el verificador. | [Zcash](https://z.cash/technology/zksnarks/) |
 | **Argumento de Conocimiento Escalable y Transparente (STARK)** |Tecnología que busca mejorar el problema de privacidad y escalabilidad de blockchain con un método de transacción transparente. Podría convertirse en la próxima etapa de las SNARKs  | [Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
 | **Bulletproofs** | Son pruebas cortas no interactivas de conocimiento cero que no requieren una configuración confiable. Se puede usar para convencer a un verificador de que un texto sin formato cifrado está bien formado. |[Stanford University](https://crypto.stanford.edu/bulletproofs/)|
-| **Campos Finitos** | Es un campo con un orden finito de elementos. El orden de un campo finito es siempre un primo o una potencia de primo. Para cada potencia de primo q = p^r, existe exactamente un campo finito con q elementos, hasta el isomorfismo.|[]()|
-| **Cifrado de Flujos** | |[]()|
+| **Campos Finitos** | consiste de un conjunto finito de elementos sobre el cual se definen un par de operaciones binarias + y ·, las cuales satisfacen algunas propiedades aritméticas.|[IPN](https://www.repositoriodigital.ipn.mx/bitstream/123456789/7845/6/DOC6.pdf)|
+| **Cifrado de Flujos** | Es un algoritmo de cifrado que utiliza una clave simétrica para cifrar y descifrar una determinada cantidad de datos. Aplican esta clave a cada dígito binario en un flujo de datos, un bit a la vez. |[Kryptonsolid](https://kryptonsolid.com/que-es-un-cifrado-de-flujo/#:~:text=Un%20cifrado%20de%20flujo%20es%20un%20algoritmo%20de%20cifrado%20que,cifrado%20como%20en%20el%20descifrado.)|
 | **Cifrado Homomórfico** | |[]()|
 | **Circuito Aritmético** | Divide en pasos individuales un programa. Consiste en las operaciones aritméticas básicas de suma, resta, multiplicación y división |[Zcash](https://z.cash/technology/zksnarks/)|
 | **Claves Privadas** | |[]()|
