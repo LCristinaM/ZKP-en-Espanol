@@ -1,7 +1,10 @@
-# Glosario
-## Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
+# Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
 
-##### *Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....*
+###### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
+---
+![Cueva de Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
+
+# Glosario
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
