@@ -1,7 +1,7 @@
 # Glosario
 ## Aprendiendo Zero Knowledge Proofs  (ZKP en Español)
 
-#### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con Ethereum Foundation.
+##### *Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....*
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
