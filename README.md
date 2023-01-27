@@ -18,7 +18,7 @@
 | **Cifrado Homomórfico** | |[]()|
 | **Circuito Aritmético** | Divide en pasos individuales un programa. Consiste en las operaciones aritméticas básicas de suma, resta, multiplicación y división |[Zcash](https://z.cash/technology/zksnarks/)|
 | **Claves Privadas** | |[]()|
-| **Conocimiento Cero** | Garantiza el anonimato. Si la verificación es verdadera, ningún verificador puede que eso.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
+| **Conocimiento Cero** | Garantiza el anonimato. Si la verificación es verdadera, ningún verificador puede saber más que eso.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Curvas Elípticas** | Es una de las herramientas más útiles para la criptografía moderna. Fueron propuestas en la década de 1980 y se generalizaron después de 2004. Ofrecen buenos niveles de seguridad con longitudes de clave cortas y permiten implementaciones más rápidas que otros métodos.| [Not a Monad Tutorial](https://www.notamonadtutorial.com/need-for-speed-elliptic-curves-chapter/) |
 | **Escalabilidad** |  | []() |
 | **Fiat Shamir Transform** | Es una técnica para tomar una prueba interactiva de conocimientos y crear una firma digital basada en ella.| []() |
