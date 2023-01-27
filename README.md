@@ -2,8 +2,7 @@
 
 ####### Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....
 ---
-![Logo HER DAO](https://web.telegram.org/k/
-https://web.telegram.org/k/download/1603182316)
+![Logo HER DAO](https://web.telegram.org/k/download/1603182316)
 
 # Glosario
 
