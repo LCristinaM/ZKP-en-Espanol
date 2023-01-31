@@ -4,6 +4,10 @@
 El porque lo estamos creando
 Buscamos crear un repositorio confiable en español sobre este tema.
 
+***contribuciones***
+To do list 
+con las tareas para contribuir (ayudanos a escribir una breve explicacion de ZKP)
+
     Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....(Te gustaría financiar o colaborar con este proyecto?, envia un DM a @herdaolatam en Twitter.
 ---
 
