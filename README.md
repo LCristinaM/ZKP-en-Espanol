@@ -36,24 +36,24 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 | **Interpolación** | Encontrar una representación del sistema de restricciones aritméticas en términos de polinomios durante el proceso de compilación STARK. | []() |
 | **Nodo** | Es un punto terminal de una red, o cualquiera de sus intersecciones. Su origen está en la ráiz indoeuropea ned, que en latín produjo nodus, origen del español nodo y nudo, y que da origen a la propia "net" en inglés. | [Jose Antonio Millán](http://jamillan.com/v_nodo.htm) |
 | **Oráculo** | Plataforma externa a Blockchain que brinda información especial usada por los contratos inteligentes. Existen  infinidad de oráculos, estos deben contener información confiable que no pueda alterarse.|[Kriptomat](https://kriptomat.io/es/blockchain/que-es-un-oraculo-de-blockchain/) |
-| **Polinomios** | Expresión formada por indeterminados (también llamados variables) y coeficientes, que sólo implica las operaciones de suma, resta, multiplicación y exponenciación entera no negativa de variables. | []() |
-| **Polinomio de Bajo Grado** | El grado es el número de términos del polinomio. | []() |
+| **Polinomios** | Es la suma de monomios o la expresión formada por variables y coeficientes que implica las operaciones de suma, resta, multiplicación y exponenciación entera no negativa de variables. | [MEC](http://descargas.pntic.mec.es/cedec/mat3/contenidos/u3/M3_U3_contenidos/13_monomios_y_polinomios.html) |
+| **Polinomio de Bajo Grado** | El grado mayor de los monomios que lo conforman. | [MEC](http://descargas.pntic.mec.es/cedec/mat3/contenidos/u3/M3_U3_contenidos/13_monomios_y_polinomios.html) |
 | **Probador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es generar el secreto y mantener el control total sobre el mismo. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Programa Aritmético Cuadrático (QAP)** |  | []() |
-| **Protocolo Criptográfico** |  | []() |
-| **Protocolo Pinocchio** | Es un "sistema construido para verificar eficazmente cálculos generales basándose únicamente en supuestos criptográficos". | []() |
+| **Protocolo Criptográfico** | son aquellos que, para llevar a cabo la interacción entre usuarios, usan funciones criptográficas para poder asegurar los requisitos de seguridad en las comunicaciones de quienes intervienen. | [UOC](https://www.exabyteinformatica.com/uoc/Informatica/Criptografia_avanzada/Criptografia_avanzada_(Modulo_3).pdf) |
+| **Protocolo Pinocchio** | Es un "sistema construido para verificar eficazmente cálculos generales basándose únicamente en supuestos criptográficos". Es la primera implementación práctica y utilizable de un zk-Snark. | [Zero Knowledge Blog](https://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol)|
 | **Protocolo Protegido de Orchard** | Se basa en pruebas de conocimiento cero que utilizan el sistema de prueba de Halo 2. Define un nuevo grupo protegido con claves de gasto y direcciones de pago que se prestan a futuras mejoras de escalabilidad.  | [Zcash](https://z.cash/technology/zksnarks/)|
 | **Pruebas Sucintas** | Son elementos que pueden verificarse en unos pocos milisegundos, con una longitud de prueba de sólo unos cientos de bytes incluso para declaraciones sobre programas que son muy grandes. | [Zcash](https://z.cash/technology/zksnarks/)|
 | **Restricciones** | | []() |
 | **Sistemas de Prueba** |  | []() |
 | **Sistema de Prueba de Conocimiento Cero** | Es un sistema de prueba en el que existe información secreta conocida por el probador y desconocida por el verificador. Los militares por ejemplo pueden usar sistemas de cifrado ZKP para asegurar sus comunicaciones evitando que el enemigo las descifre. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
-| **Sistema de Prueba Interactivo** | Es una máquina abstracta que modela la computación como el intercambio de mensajes entre dos partes: un probador y un verificador. Los mensajes se envían en ambas direcciones entre el verificador y el probador hasta que el verificador tiene una respuesta al problema y se ha "convencido" a sí mismo de que es correcta. | []() |
-| **Sistema de Prueba No Interactivo** | Es un método mediante el cual una parte puede demostrar "probador" a otra parte "verificador" que una afirmación dada es verdadera y no requiere interacción bidireccional entre ambos. | []() |
+| **Sistema de Prueba Interactivo** | Es una máquina abstracta que modela la computación como el intercambio de mensajes entre dos partes: un probador y un verificador. Los mensajes se envían en ambas direcciones entre el verificador y el probador hasta que el verificador tiene una respuesta al problema y se ha "convencido" a sí mismo de que es correcta. | [Medium](https://medium.com/whitebit-spain/qu%C3%A9-es-la-prueba-de-conocimiento-cero-zkp-zero-knowledge-proof-en-la-blockchain-e4db74540266) |
+| **Sistema de Prueba No Interactivo** | Es un método mediante el cual una parte puede demostrar "probador" a otra parte "verificador" que una afirmación dada es verdadera y no requiere interacción bidireccional entre ambos. | [Medium](https://medium.com/whitebit-spain/qu%C3%A9-es-la-prueba-de-conocimiento-cero-zkp-zero-knowledge-proof-en-la-blockchain-e4db74540266) |
 | **Sistema de Restricciones de Rango 1** | Verifica que los valores de entrada "se desplazan correctamente" por el circuito.| [Zcash](https://z.cash/technology/zksnarks/)|
 | **Solidéz** |Es una de las tres características principales de las ZKP y consiste en la capacidad de la prueba para garantizar que una declaración verificable es exacta y no ha sido manipulada. | [](https://medium.com/whitebit-spain/qu%C3%A9-es-la-prueba-de-conocimiento-cero-zkp-zero-knowledge-proof-en-la-blockchain-e4db74540266)|
 | **Trabajo Computacional** |  | []() |
 | **Transacciones Protegidas** |  | []() |
-| **Turing Complete** | Sistema de reglas de manipulación de datos que puede utilizarse para simular cualquier modelo de computación que describa una máquina abstracta. | []() |
+| **Turing Complete** | Sistema de reglas de manipulación de datos que puede utilizarse para simular cualquier modelo de computación que describa una máquina abstracta.Dicho de otro modo, permite que un ordenador pueda llegar a programarse para realizar cualquier tipo de operación, es decir que lo que se puede programar con un lenguaje se puede hacer con otros. | [El Economista](https://www.eleconomista.es/economia/noticias/8817210/12/17/Ethereum-es-Turing-completo-y-eso-que-es.html) |
 | **Valor Hash** |  | []() |
 | **Verificador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es verificar la autenticidad de un secreto por medio de pruebas criptográficas que así se lo permitan. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 
@@ -65,4 +65,3 @@ Estaremos felices de contar con tu ayuda :)
 
 
 > Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues).
-
