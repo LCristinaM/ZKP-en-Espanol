@@ -28,7 +28,7 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 | **Claves Privadas** | Es una cadena de letras y números que le permite acceder a sus fondos en criptomonedas y administrarlos desde cualquier parte del mundo donde haya conexión a Internet. Esta clave no debe ser compartida con nadie. |[Coinbase](https://www.coinbase.com/es-LA/learn/crypto-basics/what-is-a-private-key#:~:text=Una%20clave%20privada%20es%20una,fondos%20en%20criptomonedas%20y%20administrarlos.)|
 | **Conocimiento Cero** | Garantiza el anonimato. Si la verificación es verdadera, ningún verificador puede saber más que eso.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Curvas Elípticas** | Es una de las herramientas más útiles para la criptografía moderna. Fueron propuestas en la década de 1980 y se generalizaron después de 2004. Ofrecen buenos niveles de seguridad con longitudes de clave cortas y permiten implementaciones más rápidas que otros métodos.| [Not a Monad Tutorial](https://www.notamonadtutorial.com/need-for-speed-elliptic-curves-chapter/) |
-| **Escalabilidad** |  | []() |
+| **Escalabilidad** | Es la propiedad deseable en cualquier sistema, red o proceso. Indica la capacidad del este de cambiar su tamaño o configuración para adaptarse a las circunstancias cambiantes sin perder calidad en los servicios ofrecidos.|[](https://www.tokioschool.com/noticias/detalles-escalabilidad-en-redes/)|
 | **Fiat Shamir Transform** | Es una técnica para tomar una prueba interactiva de conocimientos y crear una firma digital basada en ella.| []() |
 | **Firmas Ciegas** | Creadas por David Chaum en el año de 1982. Fueron un diseño criptográfico que permitía firmar digitalmente documentos, archivos y mensajes de manera que no se revelará información a las partes involucradas en el intercambio de firmas.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Halo** | Novedoso avance en criptografía descubierto por investigadores de ECC.|[Zcash](https://z.cash/technology/zksnarks/)|
@@ -60,7 +60,7 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 | **Valores de Salida** |  | []() |
 | **Verificador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es verificar la autenticidad de un secreto por medio de pruebas criptográficas que así se lo permitan. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 
-### ¿Te gustaría Contribuir?
+## ¿Te gustaría Contribuir?
 
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
 Da clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md) para enterarte de como puedes aportar.
