@@ -69,7 +69,7 @@ Aquí hay algunas cosas que puede hacer:
 - Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
 - Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
 
-Para poner "manos a la obra" da clic [Aquí]()
+Para poner "manos a la obra" revisa antes la guía para hacer contribuciones [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 
 ---
 >Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí]()
