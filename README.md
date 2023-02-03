@@ -1,6 +1,6 @@
 # Aprendiendo Zero Knowledge Proofs (ZKP)
 
-<<Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con ...¿Te gustaría financiar o colaborar con este proyecto?, envia un DM a @herdaolatam en Twitter.>>
+>Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con ...¿Te gustaría financiar o colaborar con este proyecto?, >envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
 _Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen, los que aún no se han descubierto, y que hasta ahora la web no cuenta con suficiente información en español respecto al tema, fueron las razones que motivaron la creación de un repositorio confiable en español, para que pueda constituirse como base de conocimiento para todo el potencial que tienen la ZKP._  
 
