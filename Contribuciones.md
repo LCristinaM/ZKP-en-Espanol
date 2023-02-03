@@ -3,7 +3,7 @@
 
 Gracias por llegar hasta aquí y querer apoyar a que este contenido crezca y sea más valioso.
 
-Aquí hay algunas cosas que puede hacer:
+Aquí hay algunas cosas que puedes hacer:
 
 - Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
 * Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
