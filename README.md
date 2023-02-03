@@ -3,14 +3,15 @@
 >Este proyecto fue creado y financiado por H.E.R. DAO LATAM 
 >¿Te gustaría financiar o colaborar con este proyecto?, envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
+
 _Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen, los que aún no se han descubierto, y que hasta ahora internet no cuenta con suficiente información en español respecto al tema, fueron las razones que motivaron la creación de un repositorio confiable en español, para que pueda constituirse como base de conocimiento para todo el potencial que tienen las ZKP._  
 
-_Al pie de este glosario podrás encontrar un enlace para que puedas hacer tus contribuciones._ 
 ---
 
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
-# Glosario
+
+#                                                       Glosario
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
@@ -62,14 +63,13 @@ _Al pie de este glosario podrás encontrar un enlace para que puedas hacer tus c
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs
 Tus contribuciones serán siempre bienvenidas! 
 ¿Te gustaría ayudarnos?
-Aquí hay cosas que puede hacer para ayudar:
 
+Aquí hay cosas que puede hacer para ayudar:
 - Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
 - Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
 
 Para poner "manos a la obra" da clic [Aquí]()
 
 ### Importante
-
+---
 >Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí]()
-
