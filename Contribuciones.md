@@ -1,7 +1,7 @@
 
 # Tus contribuciones serán siempre bienvenidas
 
-Gracias por llegar hasta aquí y querer apoyar a que este contenido crezca y sea más valioso cada vez.
+Gracias por llegar hasta aquí y querer apoyar a que este contenido crezca y sea más valioso.
 
 Aquí hay algunas cosas que puede hacer:
 
