@@ -50,13 +50,11 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 | **Sistema de Prueba Interactivo** | Es una máquina abstracta que modela la computación como el intercambio de mensajes entre dos partes: un probador y un verificador. Los mensajes se envían en ambas direcciones entre el verificador y el probador hasta que el verificador tiene una respuesta al problema y se ha "convencido" a sí mismo de que es correcta. | []() |
 | **Sistema de Prueba No Interactivo** | Es un método mediante el cual una parte puede demostrar "probador" a otra parte "verificador" que una afirmación dada es verdadera y no requiere interacción bidireccional entre ambos. | []() |
 | **Sistema de Restricciones de Rango 1** | Verifica que los valores de entrada "se desplazan correctamente" por el circuito.| [Zcash](https://z.cash/technology/zksnarks/)|
+| **Solidéz** |Es una de las tres características principales de las ZKP y consiste en la capacidad de la prueba para garantizar que una declaración verificable es exacta y no ha sido manipulada. | [](https://medium.com/whitebit-spain/qu%C3%A9-es-la-prueba-de-conocimiento-cero-zkp-zero-knowledge-proof-en-la-blockchain-e4db74540266)|
 | **Trabajo Computacional** |  | []() |
 | **Transacciones Protegidas** |  | []() |
 | **Turing Complete** | Sistema de reglas de manipulación de datos que puede utilizarse para simular cualquier modelo de computación que describa una máquina abstracta. | []() |
-| **Validéz** |  | []() |
 | **Valor Hash** |  | []() |
-| **Valores de Entrada** |  | []() |
-| **Valores de Salida** |  | []() |
 | **Verificador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es verificar la autenticidad de un secreto por medio de pruebas criptográficas que así se lo permitan. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 
 ## ¿Te gustaría Contribuir?
@@ -66,5 +64,5 @@ Da clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribucion
 Estaremos felices de contar con tu ayuda :)
 
 
-> Si tienes preguntas, encuentras algún problema o error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
+> Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues).
 
