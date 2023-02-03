@@ -4,14 +4,14 @@
 >¿Te gustaría financiar o colaborar con este proyecto?, envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
 
-_Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen, los que aún no se han descubierto, y que hasta ahora internet no cuenta con suficiente información en español respecto al tema, fueron las razones que motivaron la creación de un repositorio confiable en español, para que pueda constituirse como base de conocimiento para todo el potencial que tienen las ZKP._  
+_Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen y los que aún no se han descubierto, decidimos crear un repositorio confiable en español que sirva como base para seguir construyuendo conocimiento, ya que en internet no se encuentra suficiente información relacionada en esta lengua._  
 
----
 
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
 
-#                                                       Glosario
+# Glosario
+---
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
@@ -60,16 +60,15 @@ _Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimie
 
 ### Contribuciones
 ---
-Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs
-Tus contribuciones serán siempre bienvenidas! 
+Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
+Tus contribuciones serán siempre bienvenidas 
 ¿Te gustaría ayudarnos?
 
-Aquí hay cosas que puede hacer para ayudar:
+Aquí hay algunas cosas que puede hacer:
 - Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
 - Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
 
 Para poner "manos a la obra" da clic [Aquí]()
 
-### Importante
 ---
 >Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí]()
