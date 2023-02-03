@@ -5,8 +5,8 @@
 #                                 Aprendiendo Zero Knowledge Proofs (ZKP)
 
 >Este proyecto fue creado y financiado por H.E.R. DAO LATAM.
->¿Te gustaría financiar o colaborar con este proyecto? 
-Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
+>**¿Te gustaría financiar o colaborar con este proyecto?**
+>Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
 Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que se conocen y los que aún no se descubren, decidimos crear un repositorio confiable en español que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en este idioma.
 
@@ -63,8 +63,8 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
 **¿Te gustaría ayudarnos?**
 
-Da clic [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/) para enterarte de como puedes aportar.
+Da clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md) para enterarte de como puedes aportar.
 
 ---
 >Si tienes preguntas, encuentras un problema o error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
-___
+
