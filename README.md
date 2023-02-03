@@ -4,7 +4,7 @@
 >¿Te gustaría financiar o colaborar con este proyecto?, envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
 
-*Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen y los que aún no se descubren, decidimos crear un repositorio confiable en español que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en este idioma.*
+Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen y los que aún no se descubren, decidimos crear un repositorio confiable en español que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en este idioma.
 
 
 
@@ -20,11 +20,11 @@
 | **Argumento Sucinto No interactivo del Conocimiento (SNARK)** | Es una construcción de prueba en la que se puede demostrar la posesión de cierta información, sin revelarla y sin ninguna interacción entre el probador y el verificador. | [Zcash](https://z.cash/technology/zksnarks/) |
 | **Argumento de Conocimiento Escalable y Transparente (STARK)** |Tecnología que busca mejorar el problema de privacidad y escalabilidad de blockchain con un método de transacción transparente. Podría convertirse en la próxima etapa de las SNARKs  | [Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
 | **Bulletproofs** | Son pruebas cortas no interactivas de conocimiento cero que no requieren una configuración confiable. Se puede usar para convencer a un verificador de que un texto sin formato cifrado está bien formado. |[Stanford University](https://crypto.stanford.edu/bulletproofs/)|
-| **Campos Finitos** | consiste de un conjunto finito de elementos sobre el cual se definen un par de operaciones binarias + y ·, las cuales satisfacen algunas propiedades aritméticas.|[IPN](https://www.repositoriodigital.ipn.mx/bitstream/123456789/7845/6/DOC6.pdf)|
-| **Cifrado de Flujos** | Es un algoritmo de cifrado que utiliza una clave simétrica para cifrar y descifrar una determinada cantidad de datos. Aplican esta clave a cada dígito binario en un flujo de datos, un bit a la vez. |[Kryptonsolid](https://kryptonsolid.com/que-es-un-cifrado-de-flujo/#:~:text=Un%20cifrado%20de%20flujo%20es%20un%20algoritmo%20de%20cifrado%20que,cifrado%20como%20en%20el%20descifrado.)|
-| **Cifrado Homomórfico** | |[]()|
+| **Campos Finitos** | Consiste de un conjunto finito de elementos sobre el cual se definen un par de operaciones binarias + y ·, las cuales satisfacen algunas propiedades aritméticas.|[IPN](https://www.repositoriodigital.ipn.mx/bitstream/123456789/7845/6/DOC6.pdf)|
+| **Cifrado de Flujos** | Algoritmo de cifrado que utiliza una clave simétrica para cifrar y descifrar una determinada cantidad de datos. Aplican esta clave a cada dígito binario en un flujo de datos, un bit a la vez. |[Kryptonsolid](https://kryptonsolid.com/que-es-un-cifrado-de-flujo/#:~:text=Un%20cifrado%20de%20flujo%20es%20un%20algoritmo%20de%20cifrado%20que,cifrado%20como%20en%20el%20descifrado.)|
+| **Cifrado Homomórfico** | Método de cifrado que permite realizar cálculos en datos cifrados sin descifrarlos primero con una clave secreta. Los resultados de estos cálculos solo pueden ser descifrados por el propietario de la clave privada. |[Ciberseguridad](https://ciberseguridad.com/guias/prevencion-proteccion/criptografia/cifrado-homomorfico/)|
 | **Circuito Aritmético** | Divide en pasos individuales un programa. Consiste en las operaciones aritméticas básicas de suma, resta, multiplicación y división |[Zcash](https://z.cash/technology/zksnarks/)|
-| **Claves Privadas** | |[]()|
+| **Claves Privadas** | Es una cadena de letras y números que le permite acceder a sus fondos en criptomonedas y administrarlos desde cualquier parte del mundo donde haya conexión a Internet. Esta clave no debe ser compartida con nadie. |[Coinbase](https://www.coinbase.com/es-LA/learn/crypto-basics/what-is-a-private-key#:~:text=Una%20clave%20privada%20es%20una,fondos%20en%20criptomonedas%20y%20administrarlos.)|
 | **Conocimiento Cero** | Garantiza el anonimato. Si la verificación es verdadera, ningún verificador puede saber más que eso.|[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 | **Curvas Elípticas** | Es una de las herramientas más útiles para la criptografía moderna. Fueron propuestas en la década de 1980 y se generalizaron después de 2004. Ofrecen buenos niveles de seguridad con longitudes de clave cortas y permiten implementaciones más rápidas que otros métodos.| [Not a Monad Tutorial](https://www.notamonadtutorial.com/need-for-speed-elliptic-curves-chapter/) |
 | **Escalabilidad** |  | []() |
@@ -62,14 +62,10 @@
 ### Contribuciones
 ---
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
-Tus contribuciones serán siempre bienvenidas 
-¿Te gustaría ayudarnos?
+**¿Te gustaría ayudarnos?**
 
-Aquí hay algunas cosas que puede hacer:
-- Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
-- Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
-
-Para poner "manos a la obra" revisa antes la guía para hacer contribuciones [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
+Da clic [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/) para enterarte de como puedes aportar.
 
 ---
->Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
+>Si tienes preguntas, encuentras un problema o error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
+___
