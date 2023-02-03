@@ -4,9 +4,9 @@
 
 # Aprendiendo Zero Knowledge Proofs (ZKP)
 
->Este proyecto fue creado y financiado por H.E.R. DAO LATAM.
+>Este proyecto fue creado por H.E.R. DAO LATAM.
 >
->**¿Te gustaría financiar este proyecto?**
+>**¿Te gustaría ayudar a financiar este proyecto?**
 >
 >Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
@@ -61,11 +61,11 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en
 | **Verificador** | Parte esencial para el funcionamiento del Protocolo de Conocimiento Cero. Su misión es verificar la autenticidad de un secreto por medio de pruebas criptográficas que así se lo permitan. |[Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography)|
 
 ### ¿Te gustaría Contribuir?
----
+
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
 Da clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md) para enterarte de como puedes aportar.
 Estaremos felices de contar con tu ayuda :)
 
----
+
 > Si tienes preguntas, encuentras algún problema o error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
 
