@@ -1,14 +1,14 @@
 # Aprendiendo Zero Knowledge Proofs (ZKP)
 
-***Pequeña intro*** teniendo en cuenta que no hay suficiente info en español 
-El porque lo estamos creando
-Buscamos crear un repositorio confiable en español sobre este tema.
+<<Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con ...¿Te gustaría financiar o colaborar con este proyecto?, envia un DM a @herdaolatam en Twitter.>>
+
+_Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que tienen, los que aún no se han descubierto, y que hasta ahora la web no cuenta con suficiente información en español respecto al tema, fueron las razones que motivaron la creación de un repositorio confiable en español, para que pueda constituirse como base de conocimiento para todo el potencial que tienen la ZKP._  
 
 ***contribuciones***
+Al pie de este glosario podrás encontrar un enlace para contribuir 
 To do list 
 con las tareas para contribuir (ayudanos a escribir una breve explicacion de ZKP)
 
-    Este proyecto fue creado y financiado por H.E.R. DAO LATAM en alianza con .....(Te gustaría financiar o colaborar con este proyecto?, envia un DM a @herdaolatam en Twitter.
 ---
 
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
