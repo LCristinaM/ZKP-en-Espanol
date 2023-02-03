@@ -8,7 +8,7 @@ Aquí hay algunas cosas que puede hacer:
 - Nos encantaría especialmente que pudieras ayudarnos a escribir una breve explicación sobre algunas palabras del glosario
 * Si crees que algunas definiciones requieren de ejemplos, sientete libre de darlos también.
 
-Si es la primera vez que interactúas con el lenguaje Markdown, te compartirmos [aquí] (https://markdown.es/sintaxis-markdown/)una guía rápida y sencilla para que empieces a usarlo. 
+Si es la primera vez que interactúas con el lenguaje Markdown, te compartirmos [aquí](https://markdown.es/sintaxis-markdown/) una guía rápida y sencilla para que empieces a usarlo. 
 
 ## Manos a la obra
 
