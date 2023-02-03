@@ -72,4 +72,4 @@ Aquí hay algunas cosas que puede hacer:
 Para poner "manos a la obra" revisa antes la guía para hacer contribuciones [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 
 ---
->Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí]()
+>Si quieres preguntar algo, encuentras un problema o un error, no dudes en hacernoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues)
