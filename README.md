@@ -15,6 +15,11 @@ Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero so
 consideramos que es importante para que se use en América Latina para que mas personas puedan seguir construyendo para solucionar problemas de la región.
 decidimos crear un repositorio confiable que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en Español. 
 
+INDICE
+
+CARPETA GLOSARIO
+CARPETA DE EJEMPLOS
+
 # Glosario
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
