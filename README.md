@@ -10,7 +10,10 @@
 >
 >Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
-Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero en la seguridad de la información, los casos de uso que se conocen y los que aún no se descubren, decidimos crear un repositorio confiable en español que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en este idioma.
+Reformular Frases Simples: 
+Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero son una capa adicional de seguridad de la información, si bien existen algunos asos de uso , todavia hay muchos casos para explorar, 
+consideramos que es importante para que se use en América Latina para que mas personas puedan seguir construyendo para solucionar problemas de la región.
+decidimos crear un repositorio confiable que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en Español. 
 
 # Glosario
 
