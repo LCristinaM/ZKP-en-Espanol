@@ -1,24 +1,23 @@
-
-![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
-
-
-# Aprendiendo Zero Knowledge Proofs (ZKP)
+# Aprendiendo Zero Knowledge Proofs en Español
 
 >Este proyecto fue creado por H.E.R. DAO LATAM.
->
 >**¿Te gustaría ayudar a financiar este proyecto?**
->
 >Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
-Reformular Frases Simples: 
-Teniendo en cuenta la importancia que tienen las pruebas de conocimiento cero son una capa adicional de seguridad de la información, si bien existen algunos asos de uso , todavia hay muchos casos para explorar, 
-consideramos que es importante para que se use en América Latina para que mas personas puedan seguir construyendo para solucionar problemas de la región.
-decidimos crear un repositorio confiable que sirva como base para seguir construyuendo conocimiento, pues en internet hay muy poca información relacionada en Español. 
 
-INDICE
+Teniendo en cuenta la importancia del papel que juegan las pruebas de conocimiento cero en la actualidad, ya que son una capa adicional de seguridad de la información, todavía hay muchos casos de uso que deben ser descubiertos.
+Consideramos que es importante su uso en América Latina para que se construyan soluciones a problemas de la región.
+Decidimos crear este repositorio para que sirva como base confiable para seguir construyuendo conocimiento, ya que en internet hay poca información relacionada en Español. 
 
-CARPETA GLOSARIO
-CARPETA DE EJEMPLOS
+
+# ÍNDICE
+
+Glosario 
+Ejemplos 
+¿Te gustaría contribuir? 
+¿Tienes preguntas o quieres reportar algún error?
+
+![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
 # Glosario
 
