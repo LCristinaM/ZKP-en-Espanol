@@ -1,14 +1,14 @@
 
-# :pray: Tus contribuciones serán siempre bienvenidas
+# :purple_heart: Tus contribuciones serán siempre bienvenidas
 
-Gracias por llegar hasta aquí y querer apoyar a que este contenido crezca y sea más valioso :purple_heart:.
+Gracias por llegar hasta aquí :pray: y querer apoyar a que este contenido crezca y sea más valioso.
 
 Aquí hay algunas cosas que nos encantaría que pudieras ayudarnos a hacer:
 
 * ¿Consideras que debemos agregar otras palabras al glosario?. Adelante, puedes agregarlas :blush:. 
 * Si consideras que algunas palabras requieren de descripción adicional, hazlo, nosotrxs estaremos felices de contar con tu apoyo.
 * Si crees que algunas definiciones requieren de ejemplos, siéntete libre de darlos también.
-* Conoces casos de uso que no hayamos incluido en la carpeta de [Ejemplos] ()?. Genial, de eso se trata!! 
+* ¿Conoces casos de uso que no hayamos incluido en la carpeta de [Ejemplos](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Ejemplos.md)?. Genial, también lo puedes hacer!! 
 
 Si es la primera vez que interactúas con el lenguaje Markdown, te compartirmos [aquí](https://markdown.es/sintaxis-markdown/) una guía rápida y sencilla para que empieces a usarlo. 
 
