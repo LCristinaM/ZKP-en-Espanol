@@ -1,7 +1,7 @@
 
 # 🤓 Glosario
 
-> Recuerda: Si quieres agregar alguna palabra, da clic en [Contribuciones](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md).
+> Recuerda: Si quieres agregar alguna palabra, da clic en [Contribuciones](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md). :point_left:
 
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
