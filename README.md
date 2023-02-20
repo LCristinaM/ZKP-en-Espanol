@@ -9,8 +9,7 @@
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
 Teniendo en cuenta la importancia de las pruebas de conocimiento cero en la actualidad, ya que son una capa adicional de seguridad de la información, decidimos crear este repositorio para que sirva como base confiable en la construcción de conocimiento, pues en internet hay poca información relacionada en Español.
-
-Todavía hay muchos casos de uso que deben ser descubiertos y es por ello que consideramos la importancia de su uso en América Latina, para que se construyan soluciones a problemas de la región.** 
+Todavía hay muchos casos de uso que deben ser descubiertos y es por ello que consideramos la importancia de su uso en América Latina, para que se construyan soluciones a problemas de la región.
  
 # :zap: ÍNDICE
 
