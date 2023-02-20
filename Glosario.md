@@ -1,6 +1,8 @@
 
 # 🤓 Glosario
 
+> Recuerda: Si quieres agregar alguna palabra, da clic en [Contribuciones](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md).
+
 | ***Palabra*** | ***Definición*** | ***Fuente*** |
 | --- | --- | --- |
 | **Aleatoriedad** | Es una condición necesaria para el correcto funcionamiento del las pruebas de conocimiento cero. En el lado del verificador se necesita para generar consultas al probador y en el lado del probador, se utiliza  para lograr un conocimiento cero.| [Cointelegraph](https://es.cointelegraph.com/explained/zero-knowledge-testing-zkp-the-state-of-the-art-in-cryptography), [Medium](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71) |
