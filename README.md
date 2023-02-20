@@ -12,10 +12,10 @@ Decidimos crear este repositorio para que sirva como base confiable para seguir 
 
 # ÍNDICE
 
-Glosario 
-Ejemplos 
-¿Te gustaría contribuir? 
-¿Tienes preguntas o quieres reportar algún error?
+1. Glosario 
+2. Ejemplos 
+3. ¿Te gustaría contribuir? 
+4. ¿Tienes preguntas o quieres reportar algún error?
 
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
 
