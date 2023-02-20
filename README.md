@@ -1,7 +1,9 @@
 # Aprendiendo Zero Knowledge Proofs en Español
 
 >Este proyecto fue creado por H.E.R. DAO LATAM :sparkles::sparkles::sparkles:.
+>
 >**¿Te gustaría ayudar a financiar este proyecto?**
+>
 >Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter.
 
 ![ZKP Alí baba](https://academy.bit2me.com/wp-content/uploads/2019/05/cueva-de-alibaba.jpg)
