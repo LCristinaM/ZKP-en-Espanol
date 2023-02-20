@@ -1,7 +1,7 @@
 
 # :purple_heart: Tus contribuciones serán siempre bienvenidas
 
-Gracias por llegar hasta aquí :pray: y querer apoyar a que este contenido crezca y sea más valioso.
+Gracias por llegar hasta aquí y querer apoyar a que este contenido crezca y sea más valioso. :pray:
 
 Aquí hay algunas cosas que nos encantaría que pudieras ayudarnos a hacer:
 
