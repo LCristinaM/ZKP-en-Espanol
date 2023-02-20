@@ -13,12 +13,14 @@ Decidimos crear este repositorio para que sirva como base confiable para seguir 
 
 # ÍNDICE
 
-1. [Glosario]() 
-2. Ejemplos 
+1. [Glosario](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Glosario.md) 
+2. [Ejemplos](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Ejemplos.md)  
 3. [¿Te gustaría contribuir?](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md) 
 
 Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs.
-Da clic en el punto 3 para enterarte de como puedes aportar.
-Estaremos felices de contar con tu ayuda :)
+
+* Para revisar el Glosario: Da clic en el enlace del punto uno.
+* Quieres revisar los ejemplos que tenemos: Da clic en el enlace del punto dos.
+* Da clic en el enlace del punto 3 para enterarte de como puedes contribuir con nosotrxs. Estaremos felices de contar con tu ayuda :)
 
 > Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues).
