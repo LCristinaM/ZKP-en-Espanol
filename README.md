@@ -21,4 +21,4 @@ Decidimos crear este repositorio para que sirva como base confiable para seguir 
 
 ###### Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs. Estaremos felices de contar con tu ayuda. :blue_heart:
 
-> 😵‍💫 Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues). :point_left:
+> Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues). :point_left:
