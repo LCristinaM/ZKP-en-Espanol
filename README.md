@@ -12,10 +12,9 @@ Todavía hay muchos casos de uso que deben ser descubiertos y es por ello que co
 2. [ Ejemplos](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Ejemplos.md)  
 3. [ ¿Te gustaría contribuir?](https://github.com/Cmolosa/ZKP-en-Espanol/blob/main/Contribuciones.md) 
 
->**Este proyecto fue creado por H.E.R. DAO LATAM :sparkles::sparkles::sparkles:** ¿Te gustaría ayudar a financiarlo?
->
->Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter :bird:.
-
 ###### Este glosario se irá haciendo cada vez más nutritivo en la medida en que puedas contribuir con nosotrxs. Estaremos felices de contar con tu ayuda. :blue_heart:
+
+>Este proyecto fue creado por H.E.R. DAO LATAM :sparkles::sparkles::sparkles: ¿Te gustaría ayudar a financiarlo? 
+>Envia un DM a [@herdaolatam](https://mobile.twitter.com/herdaolatam) en Twitter :bird:.
 
 > Si tienes preguntas, encuentras algún problema o error, no dudes en hacérnoslo saber dando clic [Aquí](https://github.com/Cmolosa/ZKP-en-Espanol/issues). :point_left:
