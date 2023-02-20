@@ -14,4 +14,4 @@ Si es la primera vez que interactúas con el lenguaje Markdown, te compartirmos 
 
 ## Manos a la obra
 
-Revisa la guía para hacer contribuciones [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
+Aquí hay una pequeña guía para ayudarte a hacer contribuciones [Aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
